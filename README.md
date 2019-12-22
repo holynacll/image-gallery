@@ -1,2 +1,2 @@
 # image-gallery
-fazendo uma galeria de imagens
+code html para criar uma galeria de imagens
